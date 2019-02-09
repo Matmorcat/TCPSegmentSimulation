@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main + JAR" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.matmorcat.Main" />
+    <module name="TCPSegmentSimulation" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="BuildArtifacts" enabled="true">
+        <artifact name="Executable Jar" />
+      </option>
+    </method>
+  </configuration>
+</component>
